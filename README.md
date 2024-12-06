@@ -3,11 +3,11 @@ Descripción
 Este es un sistema de gestión de membresías y clientes para un gimnasio, desarrollado con Spring Boot y MySQL. El sistema permite gestionar el registro de clientes, sus membresías y realizar tareas automatizadas como notificaciones de vencimiento de las mismas.
 
 Características principales
-Registro y administración de clientes: Permite gestionar el alta, edición y eliminación de miembros del gimnasio.
-Gestión de membresías: Administración de las fechas de inicio y vencimiento de las membresías de los clientes.
-Notificaciones automáticas: Tareas programadas con Scheduler para enviar notificaciones a los usuarios cuando sus membresías estén próximas a vencer.
-Persistencia de datos: Uso de JPA (Java Persistence API) para interactuar con la base de datos MySQL.
-Funcionalidad CRUD: Añadir, editar y eliminar miembros y sus respectivas membresías.
+#Registro y administración de clientes: Permite gestionar el alta, edición y eliminación de miembros del gimnasio.
+#Gestión de membresías: Administración de las fechas de inicio y vencimiento de las membresías de los clientes.
+#Notificaciones automáticas: Tareas programadas con Scheduler para enviar notificaciones a los usuarios cuando sus membresías estén próximas a vencer.
+#Persistencia de datos: Uso de JPA (Java Persistence API) para interactuar con la base de datos MySQL.
+#Funcionalidad CRUD: Añadir, editar y eliminar miembros y sus respectivas membresías.
 
 
 Tecnologías utilizadas
